@@ -9,7 +9,7 @@ class Shape {
 class Square: Shape {
     var side: Double = .zero
     override func getArea() -> Double {
-        return side * side ✅
+        return side * side ✅ // return area
     }
 }
 
