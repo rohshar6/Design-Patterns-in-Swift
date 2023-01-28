@@ -7,7 +7,7 @@ struct User {
     let email: String
 }
 
-protocol Area {
+protocol Area { 
     func getArea() -> Double
 }
 
